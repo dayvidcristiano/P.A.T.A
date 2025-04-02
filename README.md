@@ -15,7 +15,8 @@ O **Projeto Pata** é uma plataforma desenvolvida para otimizar o atendimento ve
 ## 📌 Backlog
 Abaixo está o backlog de atividades do projeto. As tarefas foram organizadas para garantir um fluxo de desenvolvimento eficiente.
 
-![Print do quadro no Jira](caminho/para/print_quadro.png)  
+![image](https://github.com/user-attachments/assets/33d8a6f5-ad30-4adf-a3ae-07190d818e7f)
+ 
 ![Print do backlog no Jira](caminho/para/print_backlog.png)
 
 ---
