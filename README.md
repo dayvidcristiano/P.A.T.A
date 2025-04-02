@@ -21,13 +21,17 @@ Abaixo está o backlog de atividades do projeto. As tarefas foram organizadas pa
 ---
 
 ## 🎨 Sketches e Storyboards
-Criamos **sketches e storyboards** para as histórias do projeto (mínimo de 5), através do **[Figma]([caminho/para/figma](https://www.figma.com/design/BvlxIOgN4E6DVmO70IOth9/P.A.T.A.---FIGMA?node-id=138-24&p=f&t=vNuUUbZ3sd5p0CMZ-0))**.
+Criamos **sketches e storyboards** para as histórias do projeto (mínimo de 5), através do **[Figma](https://www.figma.com/design/BvlxIOgN4E6DVmO70IOth9/P.A.T.A.---FIGMA?node-id=138-24&p=f&t=vNuUUbZ3sd5p0CMZ-0)**.
 
 ---
 
 ## 🎥 Screencast do Protótipo
-Adicionamos um screencast apresentando o protótipo, incluindo áudio ou legenda.  
+Adicionamos um screencast apresentando o protótipo. 
 📺 **Assista aqui** → 
+
+
+https://github.com/user-attachments/assets/7a71d794-f9ff-4636-94c9-7f59fdba642e
+
 
 
 ---
