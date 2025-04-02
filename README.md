@@ -21,7 +21,7 @@ Abaixo está o backlog de atividades do projeto. As tarefas foram organizadas pa
 ---
 
 ## 🎨 Sketches e Storyboards
-Criamos **sketches e storyboards** para as histórias do projeto (mínimo de 5), através do **[Figma](https://www.figma.com/design/BvlxIOgN4E6DVmO70IOth9/P.A.T.A.---FIGMA?node-id=138-24&p=f&t=vNuUUbZ3sd5p0CMZ-0)**.
+Criamos **sketches e storyboards** para as histórias do projeto, através do **[Figma](https://www.figma.com/design/BvlxIOgN4E6DVmO70IOth9/P.A.T.A.---FIGMA?node-id=138-24&p=f&t=vNuUUbZ3sd5p0CMZ-0)**.
 
 ---
 
