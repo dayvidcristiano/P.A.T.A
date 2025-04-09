@@ -1,8 +1,27 @@
-# 🐾 P.A.T.A - Plataforma de Atendimento Técnico Animal
+# P.A.T.A - Plataforma de Atendimento Técnico Animal
 
 O Hospital Veterinário do Recife (HVR) enfrenta críticas devido aos longos tempos de espera para atendimentos de urgência. Esse problema resulta em sofrimento prolongado para os animais e insatisfação entre os tutores que buscam assistência.
 
 O Projeto Pata oferece um portal prático para facilitar o agendamento e cancelamento de consultas, exames e emergências. Além disso, conta com acompanhamento médico e parcerias com pet shops para doações em troca de indicações, tornando o atendimento mais acessível e eficiente.
+
+![image](https://github.com/user-attachments/assets/92983af6-2ecd-419b-9044-89fa187f2c3b)
+
+## 🔹 Principais Funcionalidades do P.A.T.A:
+
+### 🗓️ Agendamento online  
+Consultas e exames de forma prática pelo portal.  
+
+### ❌ Cancelamento de agendamentos  
+Facilidade para desmarcar consultas e exames.  
+
+### 🏥 Acompanhamento médico  
+Acesso ao histórico e atualizações do tratamento do pet.  
+
+### 🛍️ Parcerias com pet shops  
+Sistema de doações em troca de indicações, fortalecendo a rede de apoio animal.  
+
+### ⚠️ Pré-cadastro para emergências  
+Ao declarar o nível de emergência no portal, o tutor garante mais agilidade no atendimento, já que os dados do animal estarão previamente cadastrados no sistema.
 
 ---
 
@@ -71,7 +90,8 @@ Desenvolvido por:
 ## 🖥️ Preview do Projeto:
 
 ### 📌 Trello:
-![image](https://github.com/user-attachments/assets/bb2c9c47-9777-464a-bdb2-5a523758f729)
+
+![image](https://github.com/user-attachments/assets/eb6e41d7-c327-40bc-b696-5cb2f9b5b76d)
 
 ---
 
@@ -88,3 +108,5 @@ https://www.figma.com/design/BvlxIOgN4E6DVmO70IOth9/P.A.T.A.---FIGMA?node-id=138
 
 ## ✏️ Sketches:
 https://www.figma.com/design/BvlxIOgN4E6DVmO70IOth9/P.A.T.A.---FIGMA?node-id=0-1&p=f&t=UVGgPZoYHQcJ5XSy-0
+
+
