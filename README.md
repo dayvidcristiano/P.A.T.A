@@ -1,34 +1,28 @@
-# Documentação do Projeto
+# 📌 Documentação do Projeto
 
-Através da **Residência Tecnológica do Porto Digital**, estamos desenvolvendo uma aplicação web para a **Accenture**, utilizando **React** e **Node.js**.
+Através da Residência Tecnológica do Porto Digital, estamos desenvolvendo uma aplicação web para a Accenture, utilizando React e Node.js.
 
-Nossa solução, o **Projeto Pata**, é um portal intuitivo para **atendimento veterinário**, facilitando o **agendamento e cancelamento** de consultas, exames e emergências com prioridade. A plataforma oferece **acompanhamento médico**, comunicação direta com os tutores e promove **parcerias com pet shops**, permitindo doações em troca de indicações, fortalecendo a rede de cuidado animal.
+Nossa solução, o Projeto Pata, é um portal prático para atendimento veterinário, facilitando o agendamento e cancelamento de consultas, exames e emergências com prioridade. A plataforma oferece acompanhamento médico, comunicação direta com os tutores e promove parcerias com pet shops, permitindo doações em troca de indicações, fortalecendo a rede de cuidado animal.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas:
 
 <div style="display: inline_block">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img align="center" alt="CSS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Node" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="ReactJS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 </div>
 
 <br>
 
 <div style="display: inline_block">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-  <img align="center" alt="Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
+  <img align="center" alt="Git" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+  <img align="center" alt="Figma" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  <img align="center" alt="Trello" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
 </div>
-
----
-
-## 📌 Etapas do Projeto
-
-Criamos um **Trello**, disponível abaixo nesta documentação, e definimos **10 histórias do usuário** para nossa aplicação web. A partir dessas histórias, criamos protótipos utilizando **sketches e storyboards**, apresentando-os através de **screencasts**.
 
 ---
 
@@ -51,9 +45,7 @@ Criamos um **Trello**, disponível abaixo nesta documentação, e definimos **10
    npm ainda-em-adamento
    ```
 
----
-
-## 👥 Equipe de Desenvolvimento
+## 👨‍💻 Desenvolvedores do Projeto:
 
 <a href="https://github.com/dayvidcristiano">
   <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/180871184?v=4" width="100px;" alt="Dayvid Cristiano"/>
@@ -69,21 +61,30 @@ Criamos um **Trello**, disponível abaixo nesta documentação, e definimos **10
 </a>
 
 Desenvolvido por:
-- **Dayvid Cristiano Viana da Silva**
-- **Jeniffer Cristine Lopes da Conceição**
-- **Letícia Gabriella da Costa Silva**
-- **Manuele Macêdo Pereira da Silva**
+- Dayvid Cristiano Viana da Silva
+- Jeniffer Cristine Lopes da Conceição
+- Letícia Gabriella da Costa Silva
+- Manuele Macêdo Pereira da Silva
 
 ---
 
-## 📌 Status do Projeto - Trello
+## 🖥️ Preview do Projeto:
 
-![Trello](https://github.com/user-attachments/assets/117f219a-c67f-4d4d-bac5-2d649ae990e7)
+### 📌 Trello:
+![image](https://github.com/user-attachments/assets/bb2c9c47-9777-464a-bdb2-5a523758f729)
 
 ---
 
-## 🎥 Demonstração do Protótipo
-
-📽️ **Screencast:** 
+## 🎥 Screencast do Protótipo:
 
 https://github.com/user-attachments/assets/7a71d794-f9ff-4636-94c9-7f59fdba642e
+
+---
+
+## 🎨 Storyboard:
+https://www.figma.com/design/BvlxIOgN4E6DVmO70IOth9/P.A.T.A.---FIGMA?node-id=138-24&p=f&t=DQP3V6FhPpAXHy1q-0
+
+---
+
+## ✏️ Sketches:
+https://www.figma.com/design/BvlxIOgN4E6DVmO70IOth9/P.A.T.A.---FIGMA?node-id=0-1&p=f&t=UVGgPZoYHQcJ5XSy-0
