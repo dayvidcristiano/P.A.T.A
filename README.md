@@ -1,4 +1,4 @@
-# 📌 Documentação do Projeto
+# P.A.T.A
 
 Através da Residência Tecnológica do Porto Digital, estamos desenvolvendo uma aplicação web para a Accenture, utilizando React e Node.js.
 
