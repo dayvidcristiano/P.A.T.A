@@ -1,8 +1,8 @@
 # P.A.T.A
 
-Através da Residência Tecnológica do Porto Digital, estamos desenvolvendo uma aplicação web para a Accenture, utilizando React e Node.js.
+O Hospital Veterinário do Recife (HVR) enfrenta críticas devido aos longos tempos de espera para atendimentos de urgência. Esse problema resulta em sofrimento prolongado para os animais e insatisfação entre os tutores que buscam assistência.
 
-Nossa solução, o Projeto Pata, é um portal prático para atendimento veterinário, facilitando o agendamento e cancelamento de consultas, exames e emergências com prioridade. A plataforma oferece acompanhamento médico, comunicação direta com os tutores e promove parcerias com pet shops, permitindo doações em troca de indicações, fortalecendo a rede de cuidado animal.
+O Projeto Pata oferece um portal prático para facilitar o agendamento e cancelamento de consultas, exames e emergências. Além disso, conta com acompanhamento médico e parcerias com pet shops para doações em troca de indicações, tornando o atendimento mais acessível e eficiente.
 
 ---
 
