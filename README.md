@@ -1,4 +1,4 @@
-# P.A.T.A - Plataforma de Atendimento Técnico Animal
+# 🐾 P.A.T.A - Plataforma de Atendimento Técnico Animal
 
 O Hospital Veterinário do Recife (HVR) enfrenta críticas devido aos longos tempos de espera para atendimentos de urgência. Esse problema resulta em sofrimento prolongado para os animais e insatisfação entre os tutores que buscam assistência.
 
