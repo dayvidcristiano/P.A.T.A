@@ -28,7 +28,7 @@ Nossa solução, o **Projeto Pata**, é um portal intuitivo para **atendimento v
 
 ## 📌 Etapas do Projeto
 
-Criamos um **Jira/Trello**, disponível abaixo nesta documentação, e definimos **10 histórias do usuário** para nossa aplicação web. A partir dessas histórias, criamos protótipos utilizando **sketches e storyboards**, apresentando-os através de **screencasts**.
+Criamos um **Trello**, disponível abaixo nesta documentação, e definimos **10 histórias do usuário** para nossa aplicação web. A partir dessas histórias, criamos protótipos utilizando **sketches e storyboards**, apresentando-os através de **screencasts**.
 
 ---
 
