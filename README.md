@@ -36,19 +36,19 @@ Criamos um **Jira/Trello**, disponível abaixo nesta documentação, e definimos
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd nome-do-projeto
+   cd ainda-em-adamento
    ```
 3. Instale as dependências:
    ```bash
-   npm install
+   npm ainda-em-adamento
    ```
 4. Inicie o servidor:
    ```bash
-   npm start
+   npm ainda-em-adamento
    ```
 
 ---
